@@ -1,4 +1,5 @@
-## Hi there 👋
+![Aditya Kanoi Banner](https://github.com/sebvillacorta/Sebvillacorta/blob/main/badas/bannerstv.png?raw=true)
+
 
 <!--
 **sebvillacorta/Sebvillacorta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
