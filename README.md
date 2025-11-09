@@ -36,14 +36,11 @@ Currently exploring <strong>AI-driven workflows</strong> and <strong>augmented r
 "Think deeply. Build precisely. Evolve constantly."
 </p>
 </div>
+<img src="https://github.com/sebvillacorta/Sebvillacorta/blob/main/badas/c2fd19a72e345e461dccb404f903e9c2.jpg" width="150px" />
 
----
-
-
-![Banner](https://github.com/sebvillacorta/Sebvillacorta/blob/main/badas/bannerstv.png?raw=true)
+----
 
 <div align="center">
-
   <h3>🧠 Tech Stack & Tools</h3>
 
   <!-- Sistemas y servidores -->
