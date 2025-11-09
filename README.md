@@ -4,7 +4,7 @@
 
   <!-- GitHub -->
   <a href="https://github.com/sebvillacorta" target="_blank">
-    <img src="https://img.shields.io/badge/-Sebastián_Villacorta-black?logo=github&style=flat-square" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-sebvillacorta-black?logo=github&style=flat-square" alt="GitHub"/>
   </a>
 
   <!-- LinkedIn -->
@@ -32,12 +32,6 @@
 
 <br/>
 
-<div align="center">
-  <!-- DevCard o imagen de perfil -->
-  <a href="https://github.com/sebvillacorta" target="_blank">
-    <img src="https://api.daily.dev/devcards/placeholder.png" width="200" alt="Sebastián Villacorta Dev Card"/>
-  </a>
-</div>
 
 
 
