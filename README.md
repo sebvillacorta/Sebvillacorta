@@ -42,6 +42,7 @@ Currently exploring <strong>AI-driven workflows</strong> and <strong>augmented r
   <h3>🧠 Tech Stack & Tools</h3>
 
   <!-- Sistemas y servidores -->
+  <img src="https://img.shields.io/badge/Windows_11-000000?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
   <img src="https://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/Fedora-000000?style=flat-square&logo=fedora&logoColor=white" alt="Fedora"/>
