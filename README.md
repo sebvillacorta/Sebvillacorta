@@ -1,7 +1,6 @@
 ![Aditya Kanoi Banner](https://github.com/sebvillacorta/Sebvillacorta/blob/main/badas/bannerstv.png?raw=true)
 
 <div align="center">
-  <h2>🤝 Contact Me</h2>
 
   <!-- GitHub -->
   <a href="https://github.com/sebvillacorta" target="_blank">
