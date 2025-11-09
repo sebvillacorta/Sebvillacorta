@@ -1,5 +1,6 @@
 ![Aditya Kanoi Banner](https://github.com/sebvillacorta/Sebvillacorta/blob/main/badas/bannerstv.png?raw=true)
 
+<div align="center">
 ### 🌐 Social & Contact  
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@revosttt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-raul-villacorta-114719368/)
