@@ -37,42 +37,51 @@ Currently exploring <strong>AI-driven workflows</strong> and <strong>augmented r
 </p>
 </div>
 
+---
 
-  <br/><br/>
+
+![Banner](https://github.com/sebvillacorta/Sebvillacorta/blob/main/badas/bannerstv.png?raw=true)
+
+<div align="center">
+
   <h3>🧠 Tech Stack & Tools</h3>
 
   <!-- Sistemas y servidores -->
-  <img src="https://img.shields.io/badge/Windows_11-000000?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Fedora-000000?style=flat-square&logo=fedora&logoColor=white" alt="Fedora"/>
-  <img src="https://img.shields.io/badge/Server_Configuration-000000?style=flat-square&logo=apache&logoColor=white" alt="Server Configuration"/>
+  <a href="https://github.com/sebvillacorta/windows-projects"><img src="https://img.shields.io/badge/Windows_11-000000?style=flat-square&logo=windows11&logoColor=white"/></a>
+  <a href="https://github.com/sebvillacorta/linux-tools"><img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white"/></a>
+  <a href="https://github.com/sebvillacorta/ubuntu-configs"><img src="https://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=ubuntu&logoColor=white"/></a>
+  <a href="https://github.com/sebvillacorta/fedora-setups"><img src="https://img.shields.io/badge/Fedora-000000?style=flat-square&logo=fedora&logoColor=white"/></a>
+  <a href="https://github.com/sebvillacorta/server-configs"><img src="https://img.shields.io/badge/Server_Configuration-000000?style=flat-square&logo=apache&logoColor=white"/></a>
 
   <!-- Hardware y redes -->
-  <img src="https://img.shields.io/badge/Hardware_Repair-000000?style=flat-square&logo=wrench&logoColor=white" alt="Hardware"/>
-  <img src="https://img.shields.io/badge/Networking-000000?style=flat-square&logo=cisco&logoColor=white" alt="Networking"/>
-  <img src="https://img.shields.io/badge/SysAdmin-000000?style=flat-square&logo=gnubash&logoColor=white" alt="SysAdmin"/>
+  <a href="https://github.com/sebvillacorta/hardware-repair"><img src="https://img.shields.io/badge/Hardware_Repair-000000?style=flat-square&logo=wrench&logoColor=white"/></a>
+  <a href="https://github.com/sebvillacorta/networking-labs"><img src="https://img.shields.io/badge/Networking-000000?style=flat-square&logo=cisco&logoColor=white"/></a>
+  <a href="https://github.com/sebvillacorta/sysadmin-tools"><img src="https://img.shields.io/badge/SysAdmin-000000?style=flat-square&logo=gnubash&logoColor=white"/></a>
 
   <!-- Software y herramientas -->
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/Bash_Scripting-000000?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Obsidian-000000?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian"/>
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <a href="https://github.com/sebvillacorta/vscode-projects"><img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+  <a href="https://github.com/sebvillacorta/bash-scripts"><img src="https://img.shields.io/badge/Bash_Scripting-000000?style=flat-square&logo=gnubash&logoColor=white"/></a>
+  <a href="https://github.com/sebvillacorta/git-projects"><img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white"/></a>
+  <a href="https://github.com/sebvillacorta/obsidian-templates"><img src="https://img.shields.io/badge/Obsidian-000000?style=flat-square&logo=obsidian&logoColor=white"/></a>
+  <a href="https://github.com/sebvillacorta/docker-labs"><img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white"/></a>
 
   <br/><br/>
+
   <h3>🛠 Focus Areas</h3>
 
-  <img src="https://img.shields.io/badge/System_Optimization-000000?style=flat-square&logo=linuxfoundation&logoColor=white" alt="System Optimization"/>
-  <img src="https://img.shields.io/badge/Server_Builds-000000?style=flat-square&logo=serverfault&logoColor=white" alt="Server Builds"/>
-  <img src="https://img.shields.io/badge/Automation-000000?style=flat-square&logo=python&logoColor=white" alt="Automation"/>
-  <img src="https://img.shields.io/badge/Productivity_Tools-000000?style=flat-square&logo=notion&logoColor=white" alt="Productivity"/>
-  <img src="https://img.shields.io/badge/Augmented_Reality_Projects-000000?style=flat-square&logo=googlecardboard&logoColor=white" alt="AR Projects"/>
+  <a href="https://github.com/sebvillacorta/system-optimization"><img src="https://img.shields.io/badge/System_Optimization-000000?style=flat-square&logo=linuxfoundation&logoColor=white"/></a>
+  <a href="https://github.com/sebvillacorta/server-builds"><img src="https://img.shields.io/badge/Server_Builds-000000?style=flat-square&logo=serverfault&logoColor=white"/></a>
+  <a href="https://github.com/sebvillacorta/automation-scripts"><img src="https://img.shields.io/badge/Automation-000000?style=flat-square&logo=python&logoColor=white"/></a>
+  <a href="https://github.com/sebvillacorta/productivity-tools"><img src="https://img.shields.io/badge/Productivity_Tools-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="https://github.com/sebvillacorta/ar-projects"><img src="https://img.shields.io/badge/Augmented_Reality_Projects-000000?style=flat-square&logo=googlecardboard&logoColor=white"/></a>
 
   <br/><br/>
+
   <h3>🧩 Personal Motto</h3>
-  <img src="https://img.shields.io/badge/Camino_Creativo-000000?style=flat-square&logo=compass&logoColor=white" alt="Camino"/>
-  <img src="https://img.shields.io/badge/Aprendizaje_Constante-000000?style=flat-square&logo=openai&logoColor=white" alt="Learning"/>
+
+  <a href="https://github.com/sebvillacorta/creative-path"><img src="https://img.shields.io/badge/Camino_Creativo-000000?style=flat-square&logo=compass&logoColor=white"/></a>
+  <a href="https://github.com/sebvillacorta/learning-roadmap"><img src="https://img.shields.io/badge/Aprendizaje_Constante-000000?style=flat-square&logo=openai&logoColor=white"/></a>
+
 </div>
 
 
