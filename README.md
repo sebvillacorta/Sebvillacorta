@@ -1,5 +1,13 @@
 ![Aditya Kanoi Banner](https://github.com/sebvillacorta/Sebvillacorta/blob/main/badas/bannerstv.png?raw=true)
 
+### 🌐 Social & Contact  
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@revosttt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-raul-villacorta-114719368/)
+[![GitHub](https://img.shields.io/badge/GitHub_Profile-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sebvillacorta)
+[![Email](https://img.shields.io/badge/sssebastianraul@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sssebastianraul@gmail.com)
+
+---
+
 
 <!--
 **sebvillacorta/Sebvillacorta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
