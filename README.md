@@ -44,7 +44,7 @@ Currently exploring <strong>AI-driven workflows</strong> and <strong>augmented r
   <h3>🧠 Tech Stack & Tools</h3>
 
   <!-- Sistemas y servidores -->
-  <a href="https://github.com/sebvillacorta/windows-projects"><img src="https://img.shields.io/badge/Windows_11-000000?style=flat-square&logo=windows11&logoColor=white"/></a>
+  <a href=https://github.com/sebvillacorta/Win11-Optimization-Toolkit.git><img src="https://img.shields.io/badge/Windows_11-000000?style=flat-square&logo=windows11&logoColor=white"/></a>
   <a href="https://github.com/sebvillacorta/linux-tools"><img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white"/></a>
   <a href="https://github.com/sebvillacorta/ubuntu-configs"><img src="https://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=ubuntu&logoColor=white"/></a>
   <a href="https://github.com/sebvillacorta/fedora-setups"><img src="https://img.shields.io/badge/Fedora-000000?style=flat-square&logo=fedora&logoColor=white"/></a>
